@@ -4,9 +4,9 @@
 <!--
 **sricharan44/sricharan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Building Scalable and Robust Microservices on Openshift/K8
-- 🌱 I’m currently learning Hyperledger Fabric
-- 👯 I’m looking to collaborate on Python , Docker ...
-- 🤔 I’m looking to help with Startups
-- 💬 Ask me about Technology , Computers , Python , K8
-- 📫 How to reach me: sricharan44@gmail.com
+<p align="left">  - 🔭 I’m currently working on Building Scalable and Robust Microservices on Openshift/K8</p>
+<p align="left"> - 🌱 I’m currently learning Hyperledger Fabric</p>
+<p align="left"> - 👯 I’m looking to collaborate on Python , Docker ...</p>
+<p align="left"> - 🤔 I’m looking to help with Startups</p>
+<p align="left"> - 💬 Ask me about Technology , Computers , Python , K8</p>
+<p align="left"> - 📫 How to reach me: sricharan44@gmail.com</p>
